@@ -40,9 +40,8 @@ To run this project, you can execute the notebook in Google Colab or locally on 
     ```
 
 ### Running in Google Colab
-1. Open Google Colab.
-2. Upload your notebook (`WebScrappingProject.ipynb`).
-3. Run the cells in the notebook to execute the web scraping script.
+1. Open [notebook](https://colab.research.google.com/github/Vishnu473/web-scrapping-project/blob/main/WebScrappingProject.ipynb) in Google Colab.
+2. Run the cells in the notebook to execute the web scraping script.
 
 ## Saving Data
 The scraped data is stored in a JSON file with the following structure:
@@ -60,3 +59,7 @@ The scraped data is stored in a JSON file with the following structure:
     },
     ...
 ]
+
+
+
+
