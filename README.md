@@ -1,4 +1,4 @@
-# Web Scraping Project
+# Web Scraping Project 🔍🕸️📊
 
 This project is a web scraping application that extracts information about places to visit in India from the website [Holidify](https://www.holidify.com/country/india/places-to-visit.html). The data is stored in a structured JSON format for further analysis or usage.
 
