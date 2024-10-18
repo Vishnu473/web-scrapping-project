@@ -2,6 +2,16 @@
 
 This project is a web scraping application that extracts information about places to visit in India from the website [Holidify](https://www.holidify.com/country/india/places-to-visit.html). The data is stored in a structured JSON format for further analysis or usage.
 
+## Disclaimer
+
+This project utilizes web scraping techniques to extract data from the website [Holidify](https://www.holidify.com/country/india/places-to-visit.html). 
+
+- The data extracted is intended for personal use and educational purposes only. 
+- Users are encouraged to visit Holidify directly for the most accurate and up-to-date information.
+- Please respect the terms of service of Holidify and do not use this data for commercial purposes without permission.
+- If you have any questions or concerns regarding the usage of this data, feel free to contact me at [tarinivishnukishore123@gmail.com].
+
+
 ## Table of Contents
 - [Usage](#usage)
 - [Features](#features)
